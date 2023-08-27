@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 // import java.io.*;
-public class NewTry {
+public class GuessGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random r = new Random();
